@@ -1,13 +1,16 @@
 # Matematična umetnost: Generiranje slik s formulami
 
 ## Povzetek
-Ta projekt raziskuje generativno umetnost s pomočjo matematičnih enačb in fraktalnih algoritmov v Wolfram Mathematica. Cilj je ustvariti vizualno privlačne slike in interaktivne vzorce z uporabo funkcij, kot so Mandelbrotova in Julia množica, Barnsleyjev praproti fraktal ter parametrično generirane krivulje. Projekt združuje matematične koncepte z estetsko umetnostjo in omogoča interaktivne vizualizacije.
+Ta projekt raziskuje generativno umetnost s pomočjo matematičnih enačb in fraktalnih algoritmov v Wolfram Mathematica. Cilj je ustvariti vizualno privlačne slike in interaktivne vzorce z uporabo funkcij, kot je Mandelbrotova množica, Barnsleyjev praproti fraktal ter parametrično generirane krivulje. Projekt združuje matematične koncepte z estetsko umetnostjo in omogoča interaktivne vizualizacije.
 
 ## Podroben opis
 V tem projektu bomo uporabili Wolfram Mathematica za generiranje umetniških vizualizacij s pomočjo matematičnih formul.
 Glavni cilji projekta so (se lahko spremenijo):
 
-- **Generiranje fraktalov**: Implementacija Mandelbrotove in Julia množice, raziskovanje barvnih shem in optimizacija vizualizacije.
+## Video posnetek
+https://youtu.be/FDUWdyVPf_4
+
+- **Generiranje fraktalov**: Implementacija Mandelbrotove množice, raziskovanje barvnih shem in optimizacija vizualizacije.
 - **Uporaba iterativnih funkcij**: Ustvarjanje geometrijskih vzorcev z uporabo rekurzivnih funkcij.
 - **Barnsleyjev praproti fraktal**: Implementacija verjetnostnega algoritma za realistično simulacijo rastlinskih struktur.
 - **Parametrično generirane krivulje**: Eksperimentiranje s sinusnimi in eksponentnimi funkcijami za generacijo estetskih vzorcev.
@@ -19,3 +22,4 @@ Projekt predstavlja povezavo med matematiko in umetnostjo, kjer se enačbe preob
 ### Tehnologije in orodja
 - **Wolfram Mathematica** za kodiranje in vizualizacijo.
 - **GitHub** za upravljanje kode in deljenje projekta.
+- **Excel** dodatne podatke.
